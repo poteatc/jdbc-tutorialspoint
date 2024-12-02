@@ -1,5 +1,5 @@
 // https://www.tutorialspoint.com/jdbc/jdbc-sample-code.htm
-package com.tutorialspoint;
+package com.tutorialspoint.examples;
 import java.sql.*;
 
 public class SelectExample {
